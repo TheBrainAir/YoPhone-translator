@@ -11,8 +11,6 @@ The YoAI Translation Bot is a Flask-based application that integrates with the Y
 - [API Endpoints](#api-endpoints)
 - [Error Handling](#error-handling)
 - [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -141,28 +139,9 @@ These logs help monitor the bot’s performance and troubleshoot issues.
 
 ---
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. **Fork the Repository**  
-   Click the "Fork" button on GitHub to create your own copy of the repository.
-
-2. **Create a New Branch**  
-   Create a branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Commit Your Changes**  
-   Write clear and descriptive commit messages.
-
-4. **Submit a Pull Request**  
-   Once your changes are complete, submit a pull request to the main repository with a detailed description of your changes.
-
 ## Contact
 
 For questions, suggestions, or feedback, please contact:
 
 - **GitHub:** [TheBrainAir](https://github.com/TheBrainAir)  
-- **Telegram:** @TheBrainA1r
+- **Telegram:** [@TheBrainA1r](https://t.me/TheBrainA1r)  
