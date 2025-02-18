@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/yoai-translation-bot.git
+   git clone https://github.com/TheBrainAir/YoPhone-translator.git
    cd yoai-translation-bot
    ```
 
